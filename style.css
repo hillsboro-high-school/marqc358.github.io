@@ -1,0 +1,18 @@
+body{
+    background-image:url(https://live.staticflickr.com/5610/14930503913_a9acd5befe_z.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+.text{
+    color:white;
+    font-weight:bold;
+}
+img{
+    float:left;
+    width:400px;
+    height:300px;
+}
+.warriors{
+    height:400px;
+    width:400px;
+}
